@@ -2,7 +2,7 @@
 // @name         HZ Learn - Text shadow fix
 // @namespace    https://hz.nl/
 // @version      1.0
-// @description  try to take over the world!
+// @description  Fixes UI issues on the HZ Learn pages.
 // @author       Auxority (https://github.com/Auxority)
 // @match        https://learn.hz.nl/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=hz.nl
